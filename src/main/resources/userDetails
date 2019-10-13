@@ -1,0 +1,9 @@
+aws:
+  url: www.amazonWebServices.com
+  username: abs
+  password: pass
+
+azure:
+  url: www.microsoftWebServices.com
+  username: happy
+  password: pass

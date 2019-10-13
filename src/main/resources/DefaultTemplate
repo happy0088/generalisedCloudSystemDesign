@@ -1,0 +1,6 @@
+aws:
+  security: securityAction1,securityAction1
+  audit: auditAction1,auditAction2
+
+azure:
+  security: securityAction1,securityAction1
